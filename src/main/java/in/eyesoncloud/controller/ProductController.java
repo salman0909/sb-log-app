@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import in.ashokit.binding.Product;
+import in.eyesoncloud.binding.Product;
 
 @Controller
 public class ProductController {
